@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sistemas Recomendadores Conversacionales: Aplicaciones en la industria de la salud
+title: Sistemas Recomendadores Conversacionales - Aplicaciones en la industria de la salud
 ---
 
 Los sistemas recomendadores conversacionales son una tecnología emergente que se está utilizando cada vez más en la industria de la salud para mejorar la atención al paciente y la eficiencia del sistema de salud. Estos sistemas utilizan la inteligencia artificial para analizar grandes cantidades de datos y proporcionar recomendaciones y consejos personalizados a los pacientes y profesionales de la salud a través de conversaciones en línea o mensajes de texto.
